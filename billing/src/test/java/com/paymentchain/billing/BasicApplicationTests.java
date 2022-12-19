@@ -12,7 +12,7 @@ public class BasicApplicationTests {
  
  @Test
  public void contextLoads() {
- 	    String meessage= "default message Cambio archivo para disparador WebHooks";
+ 	    String meessage= "default message Merge automatico";
  	    Assert.assertNotNull(meessage);
  }
  
